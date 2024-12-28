@@ -15,5 +15,5 @@ This project analyzes Lagos State's rooftop solar energy potential using a combi
 - **Power BI**: Dashboard creation for solar energy visualization.  
 
 ## Project Demo
-https://youtu.be/BIIbGk81J_4
+https://youtu.be/haEkl90wdaY
 
