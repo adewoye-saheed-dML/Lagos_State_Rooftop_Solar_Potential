@@ -1,2 +1,2 @@
-### Lagos State LGA geojson file
-© OpenStreetMap contributors
+# Lagos State Rooftop Solar Potential
+
