@@ -1,4 +1,4 @@
-# Lagos State Rooftop Solar Potential Mapping  
+# Lagos State Rooftop Solar Potential Dashboard
 
 This project analyzes Lagos State's rooftop solar energy potential using a combination of **Python**, **GeoJSON**, and **Power BI**. By processing over **1.5 million data points**, it provides actionable insights into the feasibility of solar energy adoption across the region.  
 
